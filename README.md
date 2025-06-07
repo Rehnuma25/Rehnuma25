@@ -1,16 +1,46 @@
-## Hi there 👋
+** 👋 Hi, I'm Rehnuma Tabassum   
+**(CSE Student & Machine Learning Enthusiast)**
 
-<!--
-**Rehnuma25/Rehnuma25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science and Engineering Student. 
+📍 Daffodil Institute of IT (DIIT), Dhaka, Bangladesh . 
+🤖 Machine Learning Engineer in Training .
 
-Here are some ideas to get you started:
+---------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Technologies
+
+**Languages & Libraries:**  
+`Python` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-Learn`
+
+**Concepts I Know:**  
+📊 Logistic Regression  
+🔍 K-Nearest Neighbors  
+🧹 Data Cleaning & Manipulation  
+📈 Data Visualization  
+🤖 Supervised Learning  
+📚 Basic Math for Machine Learning  
+🔬 And more...
+
+**Tools I Use:**  
+`Jupyter Notebook` | `Google Colab` | `VS Code`.
+
+----------------------
+
+## 📅 Current Activities
+
+- ✍️ Learning Deep Learning & Neural Networks  
+- 📖 Building ML mini-projects and strengthening my portfolio  
+- 📡 Exploring Data Telecommunication, Data Structures, and OOP  
+- 📘 Expanding my ML fundamentals and real-world applications
+
+-----------------
+
+## 🧠 Goals
+
+- 🎯 Become a full-stack Machine Learning Engineer  
+- 🤝 Collaborate with researchers and contribute to open-source projects  
+- 🌍 Build impactful AI applications to solve real-world problems
+
+
+
+
